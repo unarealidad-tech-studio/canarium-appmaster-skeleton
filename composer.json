@@ -1,0 +1,47 @@
+{
+    "name": "canarium/canarium-appmaster/master-detail",
+    "type": "project",
+    "description": "A clonable project that contains the directory structure and configurations for the master-detail appmaster",
+    "keywords": ["canarium", "module"],
+    "homepage": "http://packages.canarium.ph",
+    "license": "proprietary",
+
+    "require": {
+        "canarium/canarium-kernal/canarium-core" : "dev-master"
+    },
+
+    "require-dev": {
+        "phpunit/phpunit":                  "~3.7.5",
+        "phpunit/php-invoker":              "1.1.*",
+        "zendframework/zftool":             "dev-master",
+        "zendframework/zend-developer-tools": "dev-master",
+        "zfcampus/zf-apigility-admin":      "dev-master",
+        "zfcampus/zf-apigility-doctrine":   "dev-master",
+        "ocramius/ocra-service-manager":    "dev-master",
+        "san/san-session-toolbar":          "dev-master",
+        "snapshotpl/zf-snap-event-debugger": "dev-master",
+        "jhuet/zdt-logger-module":          "dev-master",
+        "aist/aist-git-tools":              "dev-master"
+    },
+
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "http://packages.canarium.ph"
+        }
+    ],
+
+    "authors": [
+        {
+            "name": "Errol A. Zuñiga Jr.",
+            "email": "errol.zuniga@unarealidad.com",
+            "role": "developer"
+        }
+    ],
+    "support": {
+        "email":    "errol.zuniga@unarealidad.com"
+    },
+
+    "minimum-stability": "dev"
+
+}
