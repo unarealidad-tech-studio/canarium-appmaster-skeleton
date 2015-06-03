@@ -1,7 +1,7 @@
 {
-    "name": "canarium/canarium-appmaster/master-detail",
+    "name": "canarium/canarium-appmaster/canarium-appmaster-skeleton",
     "type": "project",
-    "description": "A clonable project that contains the directory structure and configurations for the master-detail appmaster",
+    "description": "A clonable project that serves as the starting app for appmasters",
     "keywords": ["canarium", "module"],
     "homepage": "http://packages.canarium.ph",
     "license": "proprietary",
