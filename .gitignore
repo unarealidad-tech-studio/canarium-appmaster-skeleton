@@ -9,3 +9,4 @@ nbproject
 vendor/bin
 /vendor
 /data/**
+/modules
