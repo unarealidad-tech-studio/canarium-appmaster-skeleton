@@ -3,11 +3,11 @@
     "type": "project",
     "description": "A clonable project that serves as the starting app for appmasters",
     "keywords": ["canarium", "module"],
-    "homepage": "http://packages.canarium.ph",
-    "license": "proprietary",
+    "homepage": "http://www.canarium.ph",
+    "license": "MIT",
 
     "require": {
-        "unarealidad-tech-studio/canarium-kernal-canarium-core" : "dev-master"
+        "unarealidad/canarium-kernal-core" : "dev-master"
     },
 
     "require-dev": {
@@ -35,7 +35,8 @@
         {
             "name": "Errol A. Zuñiga Jr.",
             "email": "errol.zuniga@unarealidad.com",
-            "role": "developer"
+            "role": "developer",
+            "homepage": "https://github.com/Fatal-Errol"
         }
     ],
     "support": {
