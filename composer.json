@@ -1,5 +1,5 @@
 {
-    "name": "canarium/canarium-appmaster-skeleton",
+    "name": "unarealidad-tech-studio/canarium-appmaster-skeleton",
     "type": "project",
     "description": "A clonable project that serves as the starting app for appmasters",
     "keywords": ["canarium", "module"],
@@ -7,7 +7,7 @@
     "license": "proprietary",
 
     "require": {
-        "canarium/canarium-kernal-canarium-core" : "dev-master"
+        "unarealidad-tech-studio/canarium-kernal-canarium-core" : "dev-master"
     },
 
     "require-dev": {
