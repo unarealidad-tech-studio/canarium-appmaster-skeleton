@@ -1,3 +1,3 @@
 # canarium-appmaster-skeleton
 
-Sample Readme
+A clonable project that serves as the starting app for appmasters
